@@ -34,7 +34,8 @@ android {
 
 dependencies {
 
-    implementation project(':samplelibrary')
+    //implementation project(':samplelibrary')
+    implementation 'com.github.KSamima:PublishtoJitpack:1.0.1'
 
     implementation 'androidx.core:core-ktx:1.7.0'
     implementation 'androidx.appcompat:appcompat:1.6.1'
