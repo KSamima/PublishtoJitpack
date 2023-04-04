@@ -55,7 +55,7 @@ publishing {
     publications {
         release(MavenPublication) {
             groupId = 'com.github.KSamima'
-            artifactId = 'Publish to Jitpack'
+            artifactId = 'PublishtoJitpack'
             version = '1.1.5'
 
             afterEvaluate {
